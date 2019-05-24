@@ -1,0 +1,28 @@
+.card {
+    margin: 10%;
+    border-radius: 10px;
+}
+
+.card img {
+    max-height: 275px;
+    width: auto;
+    margin-top: 10px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-body .card-text {
+    color: #707377;
+    text-align: center;
+}
+
+.price {
+    font: bold;
+    font-size: 1.5rem;
+}
+
+.cart-thumbnail {
+    max-height: 100px;
+}
